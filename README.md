@@ -18,6 +18,8 @@ The Nearly New Nautical Boat Sales data accessed from **Kaggle**( an Open Data S
   7. Material
   8. Number of Views Last 7 Days
   9. Price in Euro
+Time Series Data
+
 # TOOLS:
 1. Softwares: Jupyter Notebook, Tableau
 2. Language: Python
