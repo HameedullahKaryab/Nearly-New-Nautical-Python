@@ -18,7 +18,10 @@ The Nearly New Nautical Boat Sales data accessed from **Kaggle**( an Open Data S
   7. Material
   8. Number of Views Last 7 Days
   9. Price in Euro
-Time Series Data
+      
+Link to Time Series Data: 
+https://data.nasdaq.com/data/FRED/GFDEBTN-federal-debt-total-public-debt
+
 
 # TOOLS:
 1. Softwares: Jupyter Notebook, Tableau
