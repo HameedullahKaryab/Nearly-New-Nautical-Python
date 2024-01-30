@@ -26,7 +26,6 @@ Link to JSON File for Geospatial analysis:
 
 https://www.kaggle.com/datasets/ktochylin/world-countries
 
-
 # TOOLS:
 1. Softwares: Jupyter Notebook, Tableau
 2. Language: Python
