@@ -22,6 +22,10 @@ The Nearly New Nautical Boat Sales data accessed from **Kaggle**( an Open Data S
 Link to Time Series Data: 
 https://data.nasdaq.com/data/FRED/GFDEBTN-federal-debt-total-public-debt
 
+Link to JSON File for Geospatial analysis:
+
+https://www.kaggle.com/datasets/ktochylin/world-countries
+
 
 # TOOLS:
 1. Softwares: Jupyter Notebook, Tableau
